@@ -1,0 +1,4 @@
+# Project exclude paths
+/mm-calculator/target/
+/mm-persistence/target/
+/mm-webapp/target/
